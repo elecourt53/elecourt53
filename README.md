@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![Ce que j'écoute](https://lastfm-recently-played.vercel.app/api?user=elecourt53)
+
+
 <!--
 **elecourt53/elecourt53** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
