@@ -2,7 +2,7 @@
 
 ![Ce que j'écoute](https://lastfm-recently-played.vercel.app/api?user=elecourt53)
 <p align="center">
-  <a href="https://elecourt53.github.io/Portolio/">Site</a>
+  <a href="https://elecourt53.github.io/">Site</a>
   <a href="https://www.instagram.com/elecourt53/">Instagram </a>
   <a href="https://twitter.com/elecourt53">𝕏/Twitter</a>
   <a href="https://www.linkedin.com/in/elecourt53/">LinkedIn</a>
