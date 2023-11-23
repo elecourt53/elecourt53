@@ -4,7 +4,7 @@
 <p align="center">
   <a href="https://elecourt53.github.io/Portolio/">Site</a>
   <a href="https://www.instagram.com/elecourt53/">Instagram </a>
-  <a href="https://twitter.com/eelcourt53">𝕏</a>
+  <a href="https://twitter.com/elecourt53">𝕏/Twitter</a>
   <a href="https://www.linkedin.com/in/elecourt53/">LinkedIn</a>
   <a href="https://www.last.fm/fr/user/elecourt53">Last.fm</a>
 </p>
