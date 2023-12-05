@@ -1,5 +1,6 @@
 ### Hi there 👋
 [![wakatime](https://wakatime.com/badge/user/018be312-5a81-4e8a-ab49-4e078bc2fcf8.svg)](https://wakatime.com/@018be312-5a81-4e8a-ab49-4e078bc2fcf8)]
+[![Discord Presence](https://lanyard.cnrad.dev/api/308553930013671436)](https://discord.com/users/308553930013671436)
 
 ![Ce que j'écoute](https://lastfm-recently-played.vercel.app/api?user=elecourt53)
 <p align="center">
