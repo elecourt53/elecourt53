@@ -1,6 +1,8 @@
 ### Hi there 👋
 [![wakatime](https://wakatime.com/badge/user/018be312-5a81-4e8a-ab49-4e078bc2fcf8.svg)](https://wakatime.com/@018be312-5a81-4e8a-ab49-4e078bc2fcf8)]
-
+Bonjour, je suis Etienne.
+Je suis un étudiant en BTS SIO qui souhaite devenir adminstrateur système et réseaux.
+Je fais quelques trucs en HTML/CSS/PHP, mais aussi en Python et C#.
 <a href="https://discord.com/users/308553930013671436" >
     <img src="https://lanyard-profile-readme.vercel.app/api/308553930013671436"  />
   </a>
@@ -8,7 +10,7 @@
 
 ![Ce que j'écoute](https://lastfm-recently-played.vercel.app/api?user=elecourt53)
 <p align="center">
-  <a href="https://elecourt53.github.io/">Site</a>
+  <a href="https://elecourt53.github.io/">Mon site (portefolio)</a>
   <a href="https://www.instagram.com/elecourt53/">Instagram </a>
   <a href="https://twitter.com/elecourt53">𝕏/Twitter</a>
   <a href="https://www.linkedin.com/in/elecourt53/">LinkedIn</a>
