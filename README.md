@@ -8,7 +8,8 @@
     <td><a href="https://discord.com/users/308553930013671436" >
     <img src="https://lanyard-profile-readme.vercel.app/api/308553930013671436"  /></a></td>
     </tr>
-    <tr>![Ce que j'écoute](https://lastfm-recently-played.vercel.app/api?user=elecourt53)
+    <tr>
+    ![Ce que j'écoute](https://lastfm-recently-played.vercel.app/api?user=elecourt53)
     <p align="center">
   <a href="https://elecourt53.github.io/">Mon site (portefolio)</a>
   <a href="https://www.instagram.com/elecourt53/">Instagram </a>
@@ -18,10 +19,6 @@
     </p> 
     </tr>
 </table>
-<a href="https://discord.com/users/308553930013671436" >
-    <img src="https://lanyard-profile-readme.vercel.app/api/308553930013671436"  />
-  </a>
-</div>
 
 ![Ce que j'écoute](https://lastfm-recently-played.vercel.app/api?user=elecourt53)
 <p align="center">
