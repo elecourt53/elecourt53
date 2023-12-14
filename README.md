@@ -11,7 +11,7 @@
     </tr>
     <tr>
         <td>
-            <img src="https://lastfm-recently-played.vercel.app/api?user=elecourt53/" />
+            <img src="https://lastfm-recently-played.vercel.app/api?user=elecourt53" />
         </td>
     </tr>
     <p align="center">
