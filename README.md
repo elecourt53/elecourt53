@@ -24,7 +24,6 @@
     </tr>
 </table>
 
-![Ce que j'écoute](https://lastfm-recently-played.vercel.app/api?user=elecourt53)
 <p align="center">
   <a href="https://elecourt53.github.io/">Mon site (portefolio)</a>
   <a href="https://www.instagram.com/elecourt53/">Instagram </a>
