@@ -1,8 +1,8 @@
 ### Hi there 👋
 [![wakatime](https://wakatime.com/badge/user/018be312-5a81-4e8a-ab49-4e078bc2fcf8.svg)](https://wakatime.com/@018be312-5a81-4e8a-ab49-4e078bc2fcf8)]
-Bonjour, je suis Etienne.
-Je suis un étudiant en BTS SIO qui souhaite devenir adminstrateur système et réseaux.
-Je fais quelques trucs en HTML/CSS/PHP, mais aussi en Python et C#.
+<p>Bonjour, je suis Etienne.</p>
+<p>Je suis un étudiant en BTS SIO qui souhaite devenir adminstrateur système et réseaux.</p>
+<p>Je fais quelques trucs en HTML/CSS/PHP, mais aussi en Python et C#.</p>
 <a href="https://discord.com/users/308553930013671436" >
     <img src="https://lanyard-profile-readme.vercel.app/api/308553930013671436"  />
   </a>
