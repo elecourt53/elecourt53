@@ -5,11 +5,14 @@
 <p>Je fais quelques trucs en HTML/CSS/PHP, mais aussi en Python et C#.</p>
 <table>
     <tr>
-    <td><a href="https://discord.com/users/308553930013671436" >
-    <img src="https://lanyard-profile-readme.vercel.app/api/308553930013671436"  /></a></td>
+        <td><a href="https://discord.com/users/308553930013671436" >
+        <img src="https://lanyard-profile-readme.vercel.app/api/308553930013671436"  /></a>
+        </td>
     </tr>
     <tr>
-        <td>![Ce que j'écoute](https://lastfm-recently-played.vercel.app/api?user=elecourt53)</td>
+        <td>
+            <img src="https://lastfm-recently-played.vercel.app/api?user=elecourt53/" />
+        </td>
     </tr>
     <p align="center">
   <a href="https://elecourt53.github.io/">Mon site (portefolio)</a>
