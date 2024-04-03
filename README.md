@@ -15,8 +15,8 @@
         </td>
     </tr>
     <tr>
-        <td>
-            [![Apple Music GitHub profile](https://music-profile.rayriffy.com/theme/dark.svg?uid=001123.92c8febf628941fe9272d512624b0d7d.1807)](https://github.com/rayriffy/apple-music-github-profile)
+        <td><a href ="https://github.com/rayriffy/apple-music-github-profile"
+            <img src="https://music-profile.rayriffy.com/theme/dark.svg?uid=001123.92c8febf628941fe9272d512624b0d7d.1807"/></a>
         </td>
     </tr>
     </tr>
