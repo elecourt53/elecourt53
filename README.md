@@ -9,17 +9,6 @@
         <img src="https://lanyard-profile-readme.vercel.app/api/308553930013671436"  /></a>
         </td>
     </tr>
-    <tr>
-        <td>
-            <img src="https://lastfm-recently-played.vercel.app/api?user=elecourt53" />
-        </td>
-    </tr>
-    <tr>
-        <td><a href ="https://github.com/rayriffy/apple-music-github-profile"
-            <img src="https://music-profile.rayriffy.com/theme/dark.svg?uid=001123.92c8febf628941fe9272d512624b0d7d.1807"/></a>
-        </td>
-    </tr>
-    </tr>
 </table>
 
 <!--
