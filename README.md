@@ -1,3 +1,3 @@
 ### Bonjour 👋
 <p>Bonjour, je suis Etienne.</p>
-<p>Je suis un étudiant en BTS SIO à Laval et je souhaite devenir adminstrateur système et réseaux.</p>
+<p>Diplômé d'un BTS SIO SISR, je souhaite devenir technicien informatique / adminstrateur système et réseaux.</p>
